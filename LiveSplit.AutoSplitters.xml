@@ -2,6 +2,16 @@
 <AutoSplitters>
 <AutoSplitter>
     <Games>
+      <Game>The Witcher 3: Wild Hunt</Game>
+    </Games>
+    <URLs>
+      <URL>https://drive.google.com/open?id=1kWwzyXONt4rM11_WgzF08-UJfbd4xs_z</URL>
+    </URLs>
+    <Type>Program</Type>
+    <Description>Autosplit and Autostart are availible, manual configuration required, view readme.txt for help.. Made by philipp The Cat.</Description>
+  </AutoSplitter>
+<AutoSplitter>
+    <Games>
       <Game>Turok: Dinosaur Hunter</Game>
     </Games>
     <URLs>
